@@ -1,0 +1,76 @@
+h1{
+    border: 20px red;
+    color: orangered;
+    background-color: rgba(158, 166, 175, 0.925);
+    height: 50px;
+    width:  25%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    border: solid;
+    border-radius: 30px;
+    border-color: blue;
+    border-width: 20%;
+    margin: 20px;
+    color: rgb(3, 3, 143); 
+    width: 20%;
+}
+h3{
+    border: 20px solid rgb(187, 223, 205);
+    border-radius: auto;
+    margin: auto;
+    padding: auto;
+    width: auto;
+    height: auto;
+
+    text-align: center;
+    color: rgba(235, 14, 14, 0.842);
+}
+p{
+    color: purple ;
+    font-weight: 900;
+}
+img{
+     height: 10%;
+     width: 25%;
+}
+#birthday{
+    font-size: 30px;
+}
+#murgi{
+    font-size: 25px;
+    font-weight: 700;
+}
+.friend{
+    background-color: lightblue;
+
+}
+.neibhor{
+    width: 10%;
+
+}
+h1.friend{
+    font-size: xx-large;
+}
+.romantic{
+    color: rgb(233, 13, 13);
+}
+.blog{
+    border: solid;
+    border-color: blue;
+    border-radius: 30px;
+    margin: 30px 40px 50px 60px ;
+    background-color: lightsalmon;
+    width: 50%;
+    padding: 40px 30px;
+}
+.Interestingfact {
+    border: 10px solid red;
+    border-radius: 30px;
+    margin: 40px 30px;
+    padding: 40px 30px 20px 10px;
+    width: 50%;
+    height: 20%
+    
+
+}
